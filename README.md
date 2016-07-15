@@ -1,2 +1,3 @@
-# susan-yi
-Personal Website
+# susan-yi.com
+
+Personal website. 
