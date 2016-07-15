@@ -1,0 +1,103 @@
+﻿/*!
+ *  Devicons 1.8.0 made by Theodore Vorillas / http://vorillaz.com 
+ */
+@font-face {
+  font-family: 'devicons';
+  src: url("../fonts/devicons.eot?xqxft6");
+  src: url("../fonts/devicons.eot?#iefixxqxft6") format("embedded-opentype"), url("../fonts/devicons.woff?xqxft6") format("woff"), url("../fonts/devicons.ttf?xqxft6") format("truetype"), url("../fonts/devicons.svg?xqxft6#devicons") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+.devicons {
+  font-family: 'devicons';
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 4rem;
+  color: #F05F40;
+}
+
+
+.devicons-github_badge:before {
+  content: "\e609";
+}
+
+.devicons-github:before {
+  content: "\e60a";
+}
+
+.devicons-ruby:before {
+  content: "\e639";
+}
+
+.devicons-ruby_on_rails:before {
+  content: "\e63b";
+}
+
+.devicons-javascript:before {
+  content: "\e64e";
+}
+
+.devicons-jquery:before {
+  content: "\e650";
+}
+
+.devicons-jquery_ui:before {
+  content: "\e654";
+}
+
+.devicons-javascript_shield:before {
+  content: "\e64f";
+}
+
+.devicons-bootstrap:before {
+  content: "\e647";
+}
+
+.devicons-css3_full:before {
+  content: "\e64a";
+}
+
+.devicons-css3:before {
+  content: "\e649";
+}
+
+.devicons-html5:before {
+  content: "\e636";
+}
+
+.devicons-postgresql:before {
+  content: "\e66e";
+}
+
+.devicons-heroku:before {
+  content: "\e67b";
+}
+
+.devicons-javascript_badge:before {
+  content: "\e681";
+}
+
+.devicons-illustrator:before {
+  content: "\e6b4";
+}
+
+.devicons-materializecss:before {
+  content: "\e6b6";
+}
+
+.devicons-photoshop:before {
+  content: "\e6b8";
+}
+
+.devicons-sqllite:before {
+  content: "\e6c4";
+}
+
