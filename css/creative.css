@@ -19,6 +19,9 @@ hr {
 hr.light {
   border-color: white;
 }
+h1#homeHeading {
+  color: #595959;
+}
 
 a {
   -webkit-transition: all 0.35s;
@@ -117,7 +120,7 @@ aside {
     border-color: rgba(255, 255, 255, 0.3);
   }
   .navbar-default .navbar-header .navbar-brand {
-    color: rgba(255, 255, 255, 0.7);
+    color: rgba(64, 64, 64, 0.7);
   }
   .navbar-default .navbar-header .navbar-brand:hover,
   .navbar-default .navbar-header .navbar-brand:focus {
@@ -125,7 +128,7 @@ aside {
   }
   .navbar-default .nav > li > a,
   .navbar-default .nav > li > a:focus {
-    color: rgba(255, 255, 255, 0.7);
+    color: rgba(64, 64, 64, 0.7);
   }
   .navbar-default .nav > li > a:hover,
   .navbar-default .nav > li > a:focus:hover {
